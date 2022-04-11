@@ -9,7 +9,7 @@
 <hr>
 - 🔭 I’m currently working on **WEB DEVELOPMENT**
 
-- 🌱 I’m currently learning **FRONTEND**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **WEB DEVELOPMENT**
 
