@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Patel </h1>
+<h1 align="center"> नमस्ते (Namaste), I'm Priayanshu Patel <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <h1 align="center"> A random dumb who eventually fall in love with Coding</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
