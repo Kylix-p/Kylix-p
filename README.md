@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Patel Arandom dumb who eventually fall in love with Hacking</h1>
+<h1 align="center">Hi 👋, I'm Priyanshu Patel </h1>
+<h1 align="centre" A random dumb who eventually fall in love with Coding"</h>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
