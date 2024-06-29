@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **TRPC**
 
-- 💬 Ask me about **WEB DEVELOPMENT**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **priyanshu450ss@gmail.com**
 
